@@ -1,4 +1,4 @@
-#!/home/mastafil/spiced/nlpoblano-student-code/week_10/streamlit/streamlit/bin/python3
+#!/home/mastafil/stream_lit_app/stream_lit_recommender/streamlit_env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
